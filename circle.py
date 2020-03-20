@@ -3,9 +3,4 @@ class circle():
     area   = 0
 
     def get_area(self):
-        self.area = np.pi * self.radius
-<<<<<<< HEAD
-        return 
-
-=======
->>>>>>> parent of 81f4a08... added return
+        self.area = np.pi * self.radius * 2
