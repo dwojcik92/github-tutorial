@@ -3,4 +3,4 @@ class circle():
     area   = 0
 
     def get_area(self):
-        self.area = np.pi * self.radius * 2
+        self.area = np.pi * self.radius ** 2
