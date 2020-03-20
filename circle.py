@@ -6,3 +6,4 @@ class circle():
 
     def get_area(self):
         self.area = np.pi * self.radius
+        return 
